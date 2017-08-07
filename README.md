@@ -108,3 +108,22 @@
   - Handling Exceptions
   - Errors
   - Throwables
+
+- Testing
+  - Installing PHPUnit
+  - Writing Tests for PHPUnit
+  - The Command-Line Test Runner
+  - Fixtures
+  - Organizing Tests
+  - Risky Tests
+  - Incomplete and Skipped Tests
+  - Database Testing
+  - Test Doubles
+  - Testing Practices
+  - Code Coverage Analysis
+  - Other Uses for Tests
+  - Logging
+  - Extending PHPUnit
+  - Assertions
+  - Annotations
+  - The XML Configuration File
